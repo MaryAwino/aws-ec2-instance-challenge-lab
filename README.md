@@ -203,4 +203,8 @@ This hands-on challenge provided practical experience deploying and validating a
 **Project:** AWS EC2 Instance Challenge Lab  
 **Author:** Mary Awino  
 **Program:** AWS re/Start
+## Detailed Documentation
 
+For the full implementation process, configuration steps, validation commands, and troubleshooting notes, see the [AWS EC2 Challenge Lab — Step-by-Step Walkthrough](docs/01-aws-ec2-challenge-walkthrough.md).
+
+Project evidence and screenshots are available in the [`screenshots/`](screenshots/) directory.
